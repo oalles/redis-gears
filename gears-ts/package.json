@@ -1,0 +1,8 @@
+{
+  "name": "@redis/gears-ts",
+  "version": "0.0.1",
+  "type": "module",
+  "types": "./gears-api.d.ts",
+  "dependencies": {},
+  "devDependencies": {}
+}
