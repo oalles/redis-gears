@@ -263,3 +263,5 @@ export interface RedisGlobalObject {
 }
 
 export const redis: RedisGlobalObject;
+
+export {};
